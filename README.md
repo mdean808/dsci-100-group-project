@@ -12,3 +12,5 @@ install.packages("tune")
 install.packages("workflowsets")
 
 install.packages("vctrs")
+
+install.packages("tidymodels")
